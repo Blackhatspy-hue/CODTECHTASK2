@@ -31,3 +31,5 @@ Error Handling:
 
 About the Program:
 •	This program is almost a utility-like program in the command line interface type of environment and is used for security testing. It can be used by developers security researchers, or anybody who has an interest in configuring and examining the security of a web application. Using the URL entry, users will be in a position to know if there are simple vulnerabilities that may exist and need to be worked on. It is therefore good for the starting point for vulnerability assessment though this particular shouldn’t be used as an all-round security scanner. A deeper security analysis requires the use of other elaborate instruments and techniques
+
+![Screenshot 2024-09-24 155437](https://github.com/user-attachments/assets/d2065e13-a051-4703-837d-b022a69d01ac)
